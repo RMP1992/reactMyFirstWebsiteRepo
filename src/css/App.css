@@ -1,0 +1,37 @@
+
+#bodyDiv{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  /* background-color:;
+  background-size: cover; */
+  width: 100vw;
+  height: 100vh;
+  color: black;
+}
+nav{
+  
+  
+  width: 100vw;
+}
+
+#logos{
+  display: flex;
+  width: 100vw;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
+  
+  
+}
+#logos img{
+  height: 200px;
+  width: 200px
+}
+div #h4{
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+
+}
+
